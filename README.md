@@ -1,9 +1,8 @@
 
 # Gator Ticket Master  
-**Advanced Data Structures (COP 5536)**  
+
 **Author**: Divyam Dubey  
-**UFID**: 45227758  
-**UF Email**: [divyamdubey@ufl.edu](mailto:divyamdubey@ufl.edu)  
+
 
 ---
 
