@@ -133,4 +133,3 @@ The **Gator Ticket Master** system streamlines seat reservations for Gator event
 - Handles edge cases like non-existent reservations and updates for non-waitlisted users.  
 
 ---
-```
