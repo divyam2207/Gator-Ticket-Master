@@ -21,6 +21,19 @@ The **Gator Ticket Master** system streamlines seat reservations for Gator event
 
 ---
 
+## Java Implementation
+An alternative implementation of the system is available in Java. It follows the exact same logic and file formats as the Python version.
+
+### Key Files
+* **`GatorTicketMaster.java`**: Contains the main controller and all data structure classes (Binary Heap, Red-Black Tree, Waitlist Heap) as inner classes.
+
+### Usage
+To run the Java version with an input file (e.g., `test1.txt`):
+
+1. **Compile the code:**
+   ```bash
+   javac GatorTicketMaster.java
+
 ## Project Structure  
 ### Main Components  
 - **`gatorTicketMaster.py`**: Handles user interactions and implements core functions.  
